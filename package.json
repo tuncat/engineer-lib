@@ -1,5 +1,5 @@
 {
-  "name": "code",
+  "name": "@sherry/project-config-base",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -30,6 +30,8 @@
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
     "@typescript-eslint/eslint-plugin": "^5.33.1",
     "eslint": "^8.22.0",
     "eslint-config-prettier": "^8.5.0",
@@ -41,6 +43,7 @@
     "eslint-plugin-vue": "^9.3.0",
     "husky": "^8.0.1",
     "prettier": "^2.7.1",
+    "semantic-release": "^19.0.3",
     "typescript": "^4.7.4"
   }
 }
