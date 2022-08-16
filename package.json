@@ -1,5 +1,5 @@
 {
-  "name": "@sherry/project-config-base",
+  "name": "sherry-project-config-base",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
